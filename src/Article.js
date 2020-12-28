@@ -66,7 +66,7 @@ export const Article = ({ article }) => {
         </PublishedAt>
         <Author>
           <span>
-            <FaUserAlt />{" "}
+            <FaUserAlt />
           </span>
           {article.author}
         </Author>
